@@ -1,0 +1,21 @@
+.onefive,
+.three {
+    background-color: rgb(255, 167, 167);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#bigblue {
+    color: blue;
+    font-size: 36px;
+}
+
+.three {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#biggreen {
+    background-color: #80ff80;
+    font-size: 56px;
+    font-weight: bold;
+}
